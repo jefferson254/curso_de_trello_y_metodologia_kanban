@@ -12,3 +12,4 @@ es mostrado a traves de unas targetas, las cuales se irán moviendo de una colum
 4) Visualiación del tipo de trabajo: Distinción por colores
 
 # 2) Trello
+Trello es una herramienta para la gestión de proyectos que permite hacer una gestión ágil y de fácil comprensión y se usa para proyectos personales como empresariales. también trello se puede usar para planificación personal, como un horario de tareas , etc.  Mediante la creación de cards que son muy fáciles de usar y que podemos llevar de forma más ordenada la gestión que deseamos crear y cada tarea que vayamos realizando marcando como completada. En esta herramienta pueden intervenir varias personas donde todas estarán implicadas y verán en todo momento cuáles son sus obligaciones, pero también cuál es el estado general, lo cual potenciará el trabajo en equipo y la proactividad.
