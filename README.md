@@ -4,7 +4,7 @@ Trello y Metodología Kanban
 # 1) Metodología Kanban
 Kanban es una metodología, que tiene como principio fundamental el de elaborar un tablero donde se muestren todos los procesos, el proceso
 es mostrado a traves de unas targetas, las cuales se irán moviendo de una columna a otra de acuerdo a su estado, hasta completarse.
-
+![](https://www.e-quipu.pe/dinamic/publicacion/imagen/full/TZnZlBr-PTekbolHVwCYcoMWx.png)
 ## Características
 1) Mover tarjetas dentro de una lista o trasladar de una lista a otra.
 2) Asignar personas a tarjetas.
@@ -22,6 +22,7 @@ es mostrado a traves de unas targetas, las cuales se irán moviendo de una colum
 4) Visualiación del tipo de trabajo: Distinción por colores
 
 # 2) Trello
+![Trello](https://tentulogo.com/wp-content/uploads/cabecera-post-startup-trello-cover-1.jpg)
 Trello es una herramienta para la gestión de proyectos que permite hacer una gestión ágil y de fácil comprensión y se usa para proyectos personales como empresariales. también trello se puede usar para planificación personal, como un horario de tareas , etc.  Mediante la creación de cards que son muy fáciles de usar y que podemos llevar de forma más ordenada la gestión que deseamos crear y cada tarea que vayamos realizando marcando como completada. En esta herramienta pueden intervenir varias personas donde todas estarán implicadas y verán en todo momento cuáles son sus obligaciones, pero también cuál es el estado general, lo cual potenciará el trabajo en equipo y la proactividad.
 
 ## Características
