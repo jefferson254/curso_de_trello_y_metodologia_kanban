@@ -33,3 +33,43 @@ Trello es una herramienta para la gestión de proyectos que permite hacer una ge
 1) Empleando el sistema kanban, para el registro de actividades con tarjetas virtuales organiza tareas, permite agregar listas, adjuntar archivos, etiquetar eventos, agregar comentarios y compartir tableros.
 2) Trello es un tablón virtual en el que se pueden colgar ideas, tareas, imágenes o enlaces. Es versátil y fácil de usar pudiendo usarse para cualquier tipo de tarea que requiera organizar información.
 3) Disponible en 21 idiomas, con interfaz web, clientes para iOS y android
+
+## Detalles avanzados sobre el uso de tarjetas en Trello
+
+**¿Cómo añadir archivos a una tarjeta de un tablero de Trello?**
+
+En la barra de la parte derecha de nuestra tarjeta, existe una opción llamada "Adjunto" la presionamos y colocamos los archivos que queremos añadir. 
+En el caso de añadir algo de Google Drive se necesita habilitar los *power-up* son pequeños módulos que añaden una funcionalidad para obtener los archivos que están guardados en Google Drive. 
+*Cada power-up activa una funcionalidad diferente*.
+
+**En la versión gratuita de Trello solo podemos habilitar un power-up**
+
+**Etiquetas en una tarjeta**
+
+En la opción etiqueta existen colores para identificarla como nosotros las nombremos.
+
+Hay un atajo por teclado para acceder a las etiquetas, si queremos acceder a la primera etiqueta solo mantenemos presionado el 1, si quiero observar la segunda presionamos el 2, y realizamos el mismo proceso de acuerdo al número de etiqueta a la cual queremos acceder.
+
+## Trello y el panel de control
+
+En el panel de control se muestra las actividades recientes que como usuario hemos realizado, en un tablero grupal podemos observar todas las tareas que ha realizado el grupo.
+
+En la esquina superior derecha de trello se encuentra nuestro perfil al presionarla nos da como resultado diferentes opciones.
+
+**1. Perfil y visibilidad**
+
+En esta opción podemos editar nuestro perfil.
+
+**2. Actividad**
+
+Aquí podemos apreciar las actividades que hemos realizado recientemente, y en caso de pertenecer a un ablero grupal, también observamos las tareas hechas por los miembros del grupo.
+
+**3. Tarjetas**
+
+En tarjetas somos capaces de ordenar los tableros como mejor nos convenga además de observar todos nuestros tableros.
+
+**4. Configuración**
+
+En configuración podemos cambiar nuestra contraseña, activar notificaciones, Sugerencia, aplicaciones (Sistemas en los que funciona Trello ejm. Andorid), desactivar nuestra cuenta, etc.
+
+
